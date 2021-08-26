@@ -1,6 +1,6 @@
 ### Hello! I'm Marina Mendez! You can call me Nina 🤓
 - 🌱 I’m currently learning <b>Cypress</b>
-- 😄 Pronouns: she/hers
+- 😄 Pronouns: she/her
 <hr>
 <div>
   <a href="https://github.com/marinamaraujo">

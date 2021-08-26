@@ -1,4 +1,4 @@
-### Hello! I'm Marina Mendez Araujo! You can call me Nina 🤓
+### Hello! I'm Marina Mendez! You can call me Nina 🤓
 - 🌱 I’m currently learning <b>Cypress</b>
 - 😄 Pronouns: she/hers
 <hr>

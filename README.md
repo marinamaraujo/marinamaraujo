@@ -1,5 +1,5 @@
 ### Hello! I'm Marina Mendez! You can call me Nina 🤓
-- 🌱 I’m currently learning <b>Cypress</b>
+- 🌱 I’m currently learning <b>Python</b>
 <hr>
 <!-- <div>
   <a href="https://github.com/marinamaraujo">
